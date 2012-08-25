@@ -114,7 +114,7 @@ $(function(){
 				<!-- jQuery Lightbox -->
 				<tr><td><div class="h"><a href="http://lokeshdhakar.com/projects/lightbox2/" class="l" target="_blank">jQuery Lightbox2</a><input type="checkbox" class="l" <?php echo (in_array("lightbox",$plugin)) ? "checked='checked'" :""; ?> name="lightbox" /></div></td></tr>
 				
-				<!-- jQuery Lightbox -->
+				<!-- jQuery Files Upload -->
 				<tr><td><div class="h"><a href="https://github.com/blueimp/jQuery-File-Upload/wiki/Basic-plugin" class="l" target="_blank">jQuery FilesUpload</a><input type="checkbox" class="l" <?php echo (in_array("filesupload",$plugin)) ? "checked='checked'" :""; ?> name="filesupload" /></div></td></tr>
 				
 				<tr><td><div class="h"><input align="left" type="submit" value="Применить плагины" class="sub" name="submit"/> </span></td><td><span>&nbsp;</div></td>
