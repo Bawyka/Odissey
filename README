@@ -1,0 +1,33 @@
+Odissey SBF
+
+(Odissey Site Builder FrameWork)
+
+Проект Одиссей!
+
+Что это такое? - Это некая модель/рамка посторения сайта, в которой уже подключен ряд плагинов, таких как:
+
+jQuery 1.8.0
+jQuery UI
+jQuery Cookie
+jQuery ScrollPane & Mouswheel
+jQuery ScrollTo
+jQuery mTip
+jQuery cusel
+jQuery StickyScrollMenu
+jQuery CheckBox
+jQuery Kwicks
+jQuery Form
+jQuery Tables
+jQuery tools
+jQuery redactor
+jQuery tinyMCE
+
+Включение плагинов осуществляется на странице плагинов site/plugins
+
+В файле workout.js можете иницииализировать любой плагин
+
+В файле content.php создавайте DOM-объекты.
+
+
+
+Так же в проекте присутствует библиотека работы с базой данных php, нюансы работы с которой описаны на https://github.com/Bawyka/libs
