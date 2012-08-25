@@ -96,6 +96,9 @@ $(function(){
 				<!-- Kwicks -->
 				<tr><td><div class="h"><a href="http://ruseller.com/adds/adds2276/example/" class="l" target="_blank">Kwicks</a><input type="checkbox" class="l" <?php echo (in_array("kwicks",$plugin)) ? "checked='checked'" : ""; ?> name="kwicks" /></div></td></tr>
 				
+				<!-- jQuery Image Cube -->
+				<tr><td><div class="h"><a href="http://keith-wood.name/imageCube.html" class="l" target="_blank">jQuery Image Cube</a><input type="checkbox" class="l" <?php echo (in_array("cube",$plugin)) ? "checked='checked'" :""; ?> name="cube" /></div></td></tr>
+				
 				<!-- jQuery Form -->
 				<tr><td><div class="h"><a href="https://github.com/malsup/form/" class="l" target="_blank">jQuery.Form.js</a><input type="checkbox" class="l" <?php echo (in_array("jform",$plugin)) ? "checked='checked'": ""; ?> name="jform" /></div></td></tr>
 				

@@ -104,6 +104,11 @@ class Plugins {
 <script type='text/javascript' src='plugins/filesupload/js/jquery.iframe-transport.js'></script>
 <script type='text/javascript' src='plugins/filesupload/js/jquery.fileupload.js'></script>
 <!-- // End. Files Upload  -->";
+
+	/* jQuery Image Cube */
+	public $cube = "<!-- jQuery Image Cube: http://keith-wood.name/imageCube.html -->
+<script type='text/javascript' src='plugins/cube/jquery.imagecube.min.js'></script>
+<!-- // End. jQuery Cube Image -->";
 	
 
 }
