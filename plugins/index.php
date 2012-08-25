@@ -111,6 +111,9 @@ $(function(){
 				<!-- jQuery TinyMCE -->
 				<tr><td><div class="h"><a href="http://www.tinymce.com/" class="l" target="_blank">jQuery TinyMCE (WYSIWYG)</a><input type="checkbox" class="l" <?php echo (in_array("tinymce",$plugin)) ? "checked='checked'" :""; ?> name="tinymce" /></div></td></tr>
 				
+				<!-- jQuery Lightbox -->
+				<tr><td><div class="h"><a href="http://lokeshdhakar.com/projects/lightbox2/" class="l" target="_blank">jQuery Lightbox2</a><input type="checkbox" class="l" <?php echo (in_array("lightbox",$plugin)) ? "checked='checked'" :""; ?> name="lightbox" /></div></td></tr>
+				
 				<tr><td><div class="h"><input align="left" type="submit" value="Применить плагины" class="sub" name="submit"/> </span></td><td><span>&nbsp;</div></td>
 				
 			</form>

@@ -93,6 +93,10 @@ class Plugins {
 <script type='text/javascript' src='plugins/tinymce/jscripts/tiny_mce/tiny_mce.js'></script>
 <!-- // End. TinyMce -->";
 
+	/* jQuery lightbox2 */
+	public $lightbox = "<!-- jQuery Lightbox2: http://lokeshdhakar.com/projects/lightbox2/ -->
+<script type='text/javascript' src='plugins/lightbox/js/lightbox.js'></script>
+<link type='text/css' rel='stylesheet' href='plugins/lightbox/css/lightbox.css' />";
 	
 
 }
