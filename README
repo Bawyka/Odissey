@@ -2,33 +2,33 @@ Odissey SBF
 
 (Odissey Site Builder FrameWork)
 
-Проект Одиссей!
+РџСЂРѕРµРєС‚ РћРґРёСЃСЃРµР№!
 
-Что это такое? - Это некая модель/рамка посторения сайта, в которой уже подключен ряд плагинов, таких как:
+Р§С‚Рѕ СЌС‚Рѕ С‚Р°РєРѕРµ? - Р­С‚Рѕ РЅРµРєР°СЏ РјРѕРґРµР»СЊ/СЂР°РјРєР° РїРѕСЃС‚РѕСЂРµРЅРёСЏ СЃР°Р№С‚Р°, РІ РєРѕС‚РѕСЂРѕР№ СѓР¶Рµ РїРѕРґРєР»СЋС‡РµРЅ СЂСЏРґ РїР»Р°РіРёРЅРѕРІ, С‚Р°РєРёС… РєР°Рє:
 
-jQuery 1.8.0    -> http://jquery.com/
-jQuery UI    -> http://jqueryui.com/
-jQuery Cookie    -> https://github.com/carhartl/jquery-cookie/
-jQuery ScrollPane & Mouswheel    -> http://jscrollpane.kelvinluck.com
-jQuery ScrollTo    -> http://blog.echoenduring.com/2010/11/15/freebie-contained-sticky-scroll-jquery-plugin/
-jQuery mTip    -> http://dev.mauvm.nl/mTip/#manual
-jQuery cusel    -> http://www.xiper.net/collect/html-and-css-tricks/verstka-form/nice-select-jquery.html
-jQuery StickyScrollMenu    -> http://blog.echoenduring.com/2010/11/15/freebie-contained-sticky-scroll-jquery-plugin/
-jQuery CheckBox    -> http://widowmaker.kiev.ua/checkbox/
-jQuery Kwicks    -> http://ruseller.com/adds/adds2276/example/
-jQuery Form    -> https://github.com/malsup/form/
-jQuery Tables    -> http://datatables.net/
-jQuery tools    -> http://jquerytools.org
-jQuery redactor    -> http://redactorjs.com
-jQuery tinyMCE    -> http://www.tinymce.com/
-jQuery lightbox    -> http://lokeshdhakar.com/projects/lightbox2/
+jQuery 1.8.0 -> http://jquery.com/
+jQuery UI -> http://jqueryui.com/
+jQuery Cookie -> https://github.com/carhartl/jquery-cookie/
+jQuery ScrollPane & Mouswheel -> http://jscrollpane.kelvinluck.com
+jQuery ScrollTo -> http://blog.echoenduring.com/2010/11/15/freebie-contained-sticky-scroll-jquery-plugin/
+jQuery mTip -> http://dev.mauvm.nl/mTip/#manual
+jQuery cusel -> http://www.xiper.net/collect/html-and-css-tricks/verstka-form/nice-select-jquery.html
+jQuery StickyScrollMenu -> http://blog.echoenduring.com/2010/11/15/freebie-contained-sticky-scroll-jquery-plugin/
+jQuery CheckBox -> http://widowmaker.kiev.ua/checkbox/
+jQuery Kwicks -> http://ruseller.com/adds/adds2276/example/
+jQuery Form -> https://github.com/malsup/form/
+jQuery Tables -> http://datatables.net/
+jQuery tools -> http://jquerytools.org
+jQuery redactor -> http://redactorjs.com
+jQuery tinyMCE -> http://www.tinymce.com/
+jQuery lightbox -> http://lokeshdhakar.com/projects/lightbox2/
 
-Включение плагинов осуществляется на странице плагинов site/plugins
+Р’РєР»СЋС‡РµРЅРёРµ РїР»Р°РіРёРЅРѕРІ РѕСЃСѓС‰РµСЃС‚РІР»СЏРµС‚СЃСЏ РЅР° СЃС‚СЂР°РЅРёС†Рµ РїР»Р°РіРёРЅРѕРІ site/plugins
 
-В файле workout.js можете иницииализировать любой плагин
+Р’ С„Р°Р№Р»Рµ workout.js РјРѕР¶РµС‚Рµ РёРЅРёС†РёРёР°Р»РёР·РёСЂРѕРІР°С‚СЊ Р»СЋР±РѕР№ РїР»Р°РіРёРЅ
 
-В файле content.php создавайте DOM-объекты.
+Р’ С„Р°Р№Р»Рµ content.php СЃРѕР·РґР°РІР°Р№С‚Рµ DOM-РѕР±СЉРµРєС‚С‹.
 
 
 
-Так же в проекте присутствует библиотека работы с базой данных php, нюансы работы с которой описаны на https://github.com/Bawyka/libs
+РўР°Рє Р¶Рµ РІ РїСЂРѕРµРєС‚Рµ РїСЂРёСЃСѓС‚СЃС‚РІСѓРµС‚ Р±РёР±Р»РёРѕС‚РµРєР° СЂР°Р±РѕС‚С‹ СЃ Р±Р°Р·РѕР№ РґР°РЅРЅС‹С… php, РЅСЋР°РЅСЃС‹ СЂР°Р±РѕС‚С‹ СЃ РєРѕС‚РѕСЂРѕР№ РѕРїРёСЃР°РЅС‹ РЅР° https://github.com/Bawyka/libs
