@@ -59,7 +59,7 @@ $(function(){
 ?>
 	
     <div class="wrapper">
-    
+    <a href="/">root..</a>
         <div class="content">
         
             <table id="tplugins">
@@ -128,7 +128,6 @@ $(function(){
         
         </div>
     <a href="/">root..</a>
-    </div>
     
 </body>
 </html>
