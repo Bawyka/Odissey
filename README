@@ -6,22 +6,55 @@ Odissey SBF
 
 Что это такое? - Это некая модель/рамка посторения сайта, в которой уже подключен ряд плагинов, таких как:
 
-jQuery 1.8.0 -> http://jquery.com/
-jQuery UI -> http://jqueryui.com/
-jQuery Cookie -> https://github.com/carhartl/jquery-cookie/
-jQuery ScrollPane & Mouswheel -> http://jscrollpane.kelvinluck.com
-jQuery ScrollTo -> http://blog.echoenduring.com/2010/11/15/freebie-contained-sticky-scroll-jquery-plugin/
-jQuery mTip -> http://dev.mauvm.nl/mTip/#manual
-jQuery cusel -> http://www.xiper.net/collect/html-and-css-tricks/verstka-form/nice-select-jquery.html
-jQuery StickyScrollMenu -> http://blog.echoenduring.com/2010/11/15/freebie-contained-sticky-scroll-jquery-plugin/
-jQuery CheckBox -> http://widowmaker.kiev.ua/checkbox/
-jQuery Kwicks -> http://ruseller.com/adds/adds2276/example/
-jQuery Form -> https://github.com/malsup/form/
-jQuery Tables -> http://datatables.net/
-jQuery tools -> http://jquerytools.org
-jQuery redactor -> http://redactorjs.com
-jQuery tinyMCE -> http://www.tinymce.com/
-jQuery lightbox -> http://lokeshdhakar.com/projects/lightbox2/
+****************************************************************************************
+#jQuery 1.8.0 ->
+http://jquery.com/
+****************************************************************************************
+#jQuery UI ->
+http://jqueryui.com/
+****************************************************************************************
+#jQuery Cookie ->
+https://github.com/carhartl/jquery-cookie/
+****************************************************************************************
+#jQuery ScrollPane & Mouswheel -> 
+http://jscrollpane.kelvinluck.com
+****************************************************************************************
+#jQuery ScrollTo -> 
+http://blog.echoenduring.com/2010/11/15/freebie-contained-sticky-scroll-jquery-plugin/
+****************************************************************************************
+#jQuery mTip ->
+http://dev.mauvm.nl/mTip/#manual
+****************************************************************************************
+#jQuery cusel ->
+http://www.xiper.net/collect/html-and-css-tricks/verstka-form/nice-select-jquery.html 
+****************************************************************************************
+#jQuery StickyScrollMenu ->
+http://blog.echoenduring.com/2010/11/15/freebie-contained-sticky-scroll-jquery-plugin/  
+*****************************************************************************************
+#jQuery CheckBox ->
+http://widowmaker.kiev.ua/checkbox/
+*****************************************************************************************
+#jQuery Kwicks ->
+http://ruseller.com/adds/adds2276/example/
+*****************************************************************************************
+#jQuery Form ->
+https://github.com/malsup/form/
+******************************************************************************************
+#jQuery Tables ->
+http://datatables.net/
+******************************************************************************************
+#jQuery tools ->
+http://jquerytools.org
+******************************************************************************************
+#jQuery redactor ->
+http://redactorjs.com
+*******************************************************************************************
+#jQuery tinyMCE ->
+http://www.tinymce.com/
+*******************************************************************************************
+#jQuery lightbox ->
+http://lokeshdhakar.com/projects/lightbox2/
+*******************************************************************************************
 
 Включение плагинов осуществляется на странице плагинов site/plugins
 
