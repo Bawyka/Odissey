@@ -7,7 +7,7 @@ class Plugins {
 <script type='text/javascript' src='plugins/jQuery/jquery-1.8.0.min.js'></script>";
 
 	/* jQuery UI */
-	public $jqueryui = "<!-- jQuery-UI -->
+	public $jqueryui = "<!-- jQuery-UI: http://jqueryui.com/ -->
 <link type='text/css' href='plugins/ui/css/ui-lightness/jquery-ui-1.8.22.custom.css' rel='Stylesheet' />	
 <script type='text/javascript' src='plugins/ui/js/jquery-ui-1.8.22.custom.min.js'></script>
 <!-- // END jQuery-UI -->";	
@@ -97,6 +97,13 @@ class Plugins {
 	public $lightbox = "<!-- jQuery Lightbox2: http://lokeshdhakar.com/projects/lightbox2/ -->
 <script type='text/javascript' src='plugins/lightbox/js/lightbox.js'></script>
 <link type='text/css' rel='stylesheet' href='plugins/lightbox/css/lightbox.css' />";
+
+	/* Multiple Files Upload */
+	public $filesupload = "<!-- jQuery FilesUpload: https://github.com/blueimp/jQuery-File-Upload/wiki/Basic-plugin -->
+<script type='text/javascript' src='plugins/filesupload/js/vendor/jquery.ui.widget.js'></script>
+<script type='text/javascript' src='plugins/filesupload/js/jquery.iframe-transport.js'></script>
+<script type='text/javascript' src='plugins/filesupload/js/jquery.fileupload.js'></script>
+<!-- // End. Files Upload  -->";
 	
 
 }
