@@ -6,7 +6,7 @@ Odissey SBF
 
 Что это такое? - Это некая модель/рамка посторения сайта, в которой уже подключен ряд плагинов, таких как:
 
-jQuery 1.8.0
+jQuery 1.8.0    -> http://jquery.com/
 jQuery UI
 jQuery Cookie
 jQuery ScrollPane & Mouswheel
