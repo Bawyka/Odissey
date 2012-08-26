@@ -129,6 +129,9 @@ $(function(){
 				<!-- jQuery Highlight -->
 				<tr><td><div class="h"><a href="http://softwaremaniacs.org/soft/highlight/en/download/" class="l" target="_blank">jQuery Highlight</a><input type="checkbox" class="l" <?php echo (in_array("highlight",$plugin)) ? "checked='checked'" :""; ?> name="highlight" /></div></td></tr>
 				
+				<!-- jQuery colorpicker -->
+				<tr><td><div class="h"><a href="http://www.eyecon.ro/colorpicker/#about" class="l" target="_blank">jQuery colorpicker</a><input type="checkbox" class="l" <?php echo (in_array("colorpicker",$plugin)) ? "checked='checked'" :""; ?> name="colorpicker" /></div></td></tr>
+				
 				<tr><td><div class="h"><input align="left" type="submit" value="Применить плагины" class="sub" name="submit"/> </span></td><td><span>&nbsp;</div></td>
 				
 			</form>

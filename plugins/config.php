@@ -127,4 +127,10 @@ class Plugins {
 <script>hljs.initHighlightingOnLoad();</script>
 <!-- // End. jQuery Highlight -->";
 
+	/* jQuery color picker */
+	public $colorpicker = "<!-- jQuery ColorPicker: http://www.eyecon.ro/colorpicker/#about -->
+<link rel='stylesheet' media='screen' type='text/css' href='plugins/colorpicker/css/colorpicker.css' />
+<script type='text/javascript' src='plugins/colorpicker/js/colorpicker.js'></script>
+<!-- // End. jQuery colorpicker -->";
+
 }

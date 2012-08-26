@@ -96,6 +96,21 @@ http://www.thomaslanciaux.pro/jquery/jquery_carousel.htm
 https://github.com/isagalaev/highlight.js
 
 
+************************************** jQuery ColorPicker ********************************
+http://www.eyecon.ro/colorpicker/#about
+
+Описание:
+Плагин выбора различных цветов.
+
+Использование:
+
+INIT: 
+$('#colorIt').ColorPicker();
+
+DOM:
+<input type='button' value='color' id='colorIt' />
+
+
 
 ----------------------------------------------------------------------------------------
 
