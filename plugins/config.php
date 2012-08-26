@@ -109,6 +109,15 @@ class Plugins {
 	public $cube = "<!-- jQuery Image Cube: http://keith-wood.name/imageCube.html -->
 <script type='text/javascript' src='plugins/cube/jquery.imagecube.min.js'></script>
 <!-- // End. jQuery Cube Image -->";
-	
+
+	/* jQuery ajaxupload.js (Max Petrenko)*/
+	public $ajaxupload = "<!-- jQuery ajaxupload.js: max petrenko -->
+<script type='text/javascript' src='plugins/ajaxupload/ajaxupload.js'></script>
+<!-- // End. jQuery AjaxUpload -->";
+
+/* jQuery carusel.js */
+	public $carusel = "<!-- jQuery Carusel:  http://www.thomaslanciaux.pro/jquery/jquery_carousel.htm-->
+<script type='text/javascript' src='plugins/carusel/jquery.carousel.min.js'></script>
+<!-- // End. jQuery Carusel -->";
 
 }
