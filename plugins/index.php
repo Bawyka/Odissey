@@ -126,6 +126,9 @@ $(function(){
 				<!-- jQuery Carusel -->
 				<tr><td><div class="h"><a href="http://www.thomaslanciaux.pro/jquery/jquery_carousel.htm" class="l" target="_blank">jQuery Carusel</a><input type="checkbox" class="l" <?php echo (in_array("carusel",$plugin)) ? "checked='checked'" :""; ?> name="carusel" /></div></td></tr>
 				
+				<!-- jQuery Highlight -->
+				<tr><td><div class="h"><a href="http://softwaremaniacs.org/soft/highlight/en/download/" class="l" target="_blank">jQuery Highlight</a><input type="checkbox" class="l" <?php echo (in_array("highlight",$plugin)) ? "checked='checked'" :""; ?> name="highlight" /></div></td></tr>
+				
 				<tr><td><div class="h"><input align="left" type="submit" value="Применить плагины" class="sub" name="submit"/> </span></td><td><span>&nbsp;</div></td>
 				
 			</form>

@@ -115,9 +115,16 @@ class Plugins {
 <script type='text/javascript' src='plugins/ajaxupload/ajaxupload.js'></script>
 <!-- // End. jQuery AjaxUpload -->";
 
-/* jQuery carusel.js */
+	/* jQuery carusel.js */
 	public $carusel = "<!-- jQuery Carusel:  http://www.thomaslanciaux.pro/jquery/jquery_carousel.htm-->
 <script type='text/javascript' src='plugins/carusel/jquery.carousel.min.js'></script>
 <!-- // End. jQuery Carusel -->";
+
+	/* jQuery Highlight */
+	public $highlight = "<!-- jQuery Highlight: http://softwaremaniacs.org/soft/highlight/en/download/ -->
+<link rel='stylesheet' href='plugins/highlight/styles/default.css'>
+<script type='text/javascript' src='plugins/highlight/highlight.pack.js'></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<!-- // End. jQuery Highlight -->";
 
 }
