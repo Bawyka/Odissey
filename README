@@ -1,0 +1,126 @@
+Odissey SBF
+
+(Odissey Site Builder FrameWork)
+
+Проект Одиссей!
+
+Что это такое? - Это некая модель/рамка посторения сайта, в которой уже подключен ряд плагинов, таких как:
+
+--\\ jQuery 1.8.0 \\--
+# http://jquery.com/
+
+$ Описание: 
+Собственно говоря сам jQuery версии 1.8.0 , прошу любить и жаловать.
+
+@ Использование: 
+Да что тут еще говорить? Берете и пользуетесь!
+
+
+--\\ jQuery UI \\--
+# http://jqueryui.com/
+
+
+--\\ jQuery Cookie \\--
+# https://github.com/carhartl/jquery-cookie/
+
+
+--\\ jQuery ScrollPane & Mouswheel \\--
+# http://jscrollpane.kelvinluck.com
+
+
+--\\ jQuery ScrollTo \\--
+# http://blog.echoenduring.com/2010/11/15/freebie-contained-sticky-scroll-jquery-plugin/
+
+
+--\\ jQuery mTip \\--
+# http://dev.mauvm.nl/mTip/#manual
+
+
+--\\ jQuery cuSel \\--
+# http://www.xiper.net/collect/html-and-css-tricks/verstka-form/nice-select-jquery.html 
+
+
+--\\ jQuery StickyScrollMenu \\--
+# http://blog.echoenduring.com/2010/11/15/freebie-contained-sticky-scroll-jquery-plugin/  
+
+
+--\\ jQuery CheckBox \\--
+# http://widowmaker.kiev.ua/checkbox/
+
+
+--\\ jQuery Kwicks \\--
+# http://ruseller.com/adds/adds2276/example/
+
+
+--\\ jQuery Form \\--
+# https://github.com/malsup/form/
+
+
+--\\ jQuery Tables \\--
+# http://datatables.net/
+
+
+--\\ jQuery tools \\--
+# http://jquerytools.org
+
+
+--\\ jQuery redactor \\--
+# http://redactorjs.com
+
+
+--\\ jQuery tinyMCE \\--
+# http://www.tinymce.com/
+
+
+--\\ jQuery lightbox \\--
+# http://lokeshdhakar.com/projects/lightbox2/
+
+
+--\\ jQuery FilesUpload \\--
+# https://github.com/blueimp/jQuery-File-Upload/wiki/API
+
+
+--\\ jQuery 3D Cube Images \\--
+# http://keith-wood.name/imageCube.html
+
+
+--\\ jQuery AjaxUpload \\--
+# provided by Max Petrenko
+
+
+--\\ jQuery Carusel \\--
+# http://www.thomaslanciaux.pro/jquery/jquery_carousel.htm
+
+
+--\\ jQuery Highlight \\--
+# https://github.com/isagalaev/highlight.js
+
+
+--\\ jQuery ColorPicker \\--
+# http://www.eyecon.ro/colorpicker/#about
+
+$ Описание:
+Плагин выбора различных цветов.
+
+@ Использование:
+
+INIT: 
+$('#colorIt').ColorPicker();
+
+DOM:
+<input type='button' value='color' id='colorIt' />
+
+
+
+---------------------\\------------------------\\------------------------
+
+
+Включение плагинов осуществляется на странице плагинов site/plugins
+
+В файле workout.js можете иницииализировать любой плагин
+
+В файле content.php создавайте DOM-объекты.
+
+
+
+Так же в проекте присутствует библиотека работы с базой данных php, нюансы работы с которой описаны на https://github.com/Bawyka/libs
